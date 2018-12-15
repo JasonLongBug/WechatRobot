@@ -1,0 +1,5 @@
+D:\02-Demo\01-微信机器人\WechatRobot\WechatRobot.Operation\bin\Debug\WechatRobot.Operation.dll
+D:\02-Demo\01-微信机器人\WechatRobot\WechatRobot.Operation\bin\Debug\WechatRobot.Operation.pdb
+D:\02-Demo\01-微信机器人\WechatRobot\WechatRobot.Operation\obj\Debug\WechatRobot.Operation.csprojResolveAssemblyReference.cache
+D:\02-Demo\01-微信机器人\WechatRobot\WechatRobot.Operation\obj\Debug\WechatRobot.Operation.dll
+D:\02-Demo\01-微信机器人\WechatRobot\WechatRobot.Operation\obj\Debug\WechatRobot.Operation.pdb
