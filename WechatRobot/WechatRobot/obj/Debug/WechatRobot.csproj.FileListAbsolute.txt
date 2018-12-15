@@ -18,3 +18,5 @@ D:\02-Demo\01-微信机器人\WechatRobot\WechatRobot\bin\Microsoft.CodeDom.Prov
 D:\02-Demo\01-微信机器人\WechatRobot\WechatRobot\obj\Debug\WechatRobot.csprojResolveAssemblyReference.cache
 D:\02-Demo\01-微信机器人\WechatRobot\WechatRobot\obj\Debug\WechatRobot.dll
 D:\02-Demo\01-微信机器人\WechatRobot\WechatRobot\obj\Debug\WechatRobot.pdb
+D:\02-Demo\01-微信机器人\WechatRobot\WechatRobot\bin\WechatRobot.Entity.dll
+D:\02-Demo\01-微信机器人\WechatRobot\WechatRobot\bin\WechatRobot.Entity.pdb
